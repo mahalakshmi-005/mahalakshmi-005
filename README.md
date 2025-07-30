@@ -1,19 +1,13 @@
-<!-- Heading with Animation -->
-<h1 align="center"> 
-  Hey 👋, I'm <span style="color:#00b4d8;">Maha Lakshmi K</span> 
-</h1>
-
-<h3 align="center">
-  💻 <i>Software Developer (ASP.NET MVC, C#)</i> | 🎨 <i>UI/UX Designer</i>
-</h3>
+<!-- Typing animation for heading -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&color=00b4d8&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Maha+Lakshmi+K;Software+Developer+(ASP.NET+MVC,+C#);UI/UX+Designer+%7C+Web+Designer;Passionate+about+Full+Stack+Development!" />
+</p>
 
 ---
 
 ## ✨ About Me  
 
-<p align="left">
-Hi, I'm <b>Maha Lakshmi K</b>, a passionate <b>Software Developer (ASP.NET MVC, C#)</b> and <b>UI/UX Designer</b> who loves building clean, scalable & user‑friendly web applications.  
-</p>
+Hi, I'm **Maha Lakshmi K**, a passionate **Software Developer (ASP.NET MVC, C#)** and **UI/UX Designer** who loves building clean, scalable & user‑friendly web applications.  
 
 - 🔭 Currently improving my **full‑stack development skills**  
 - 💡 Interested in **UI/UX design, web development and modern frameworks**  
@@ -41,7 +35,7 @@ Hi, I'm <b>Maha Lakshmi K</b>, a passionate <b>Software Developer (ASP.NET MVC, 
 
 ---
 
-## 📊 GitHub Stats & Streak  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahalakshmi-005&theme=tokyonight&hide_border=false&show_icons=true" height="150" />
@@ -59,6 +53,4 @@ Hi, I'm <b>Maha Lakshmi K</b>, a passionate <b>Software Developer (ASP.NET MVC, 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=mahalakshmi-005&icon=6&color=6" />
 </p>
-
-<!-- Proudly enhanced by ChatGPT ✨ -->
 
