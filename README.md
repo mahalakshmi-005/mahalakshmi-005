@@ -1,12 +1,6 @@
 <p align="center">
-  <img src="D:\Downloads\1.png" alt="Maha Lakshmi K Banner" width="100%" />
-</p>
-<!-- Gradient animated title with typing effect -->
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&pause=500&color=FF6B6B&background=00000000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Maha+Lakshmi+K;Software+Developer+(ASP.NET+MVC,+C#);UI%2FUX+Designer+%7C+Web+Designer;Passionate+About+Full+Stack+Development!" alt="Typing SVG" />
 </p>
-
----
 
 ## 🎨 **About Me**  
 
@@ -24,7 +18,6 @@ who loves building <span style="color:#FF6B6B;">scalable</span> &
 📧 <b>Reach me:</b> laxxk43@gmail.com  
 </p>
 
----
 
 ## 🌐 **Connect with Me**
 
@@ -40,7 +33,6 @@ who loves building <span style="color:#FF6B6B;">scalable</span> &
   </a>
 </p>
 
----
 
 ## 💻 **Tech Stack**
 
@@ -48,7 +40,6 @@ who loves building <span style="color:#FF6B6B;">scalable</span> &
 <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,php,java,mysql,figma,xd,photoshop,github&theme=dark" />
 </p>
 
----
 
 ## 📊 **GitHub Analytics**
 
@@ -61,7 +52,6 @@ who loves building <span style="color:#FF6B6B;">scalable</span> &
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmi-005&theme=radical&hide_border=false&layout=compact" height="150" />
 </p>
 
----
 
 ## ✨ **Profile Views**
 
@@ -69,7 +59,6 @@ who loves building <span style="color:#FF6B6B;">scalable</span> &
   <img src="https://visitcount.itsvg.in/api?id=mahalakshmi-005&icon=2&color=9" />
 </p>
 
----
 
 ## ⚡ **Fun Animation**
 
