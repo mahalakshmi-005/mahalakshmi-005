@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mahalakshmi-005/mahalakshmi-005/main/banner.png" alt="Maha Lakshmi K Banner" width="100%" />
+  <img src="D:\Downloads\1.png" alt="Maha Lakshmi K Banner" width="100%" />
 </p>
 <!-- Gradient animated title with typing effect -->
 <p align="center">
