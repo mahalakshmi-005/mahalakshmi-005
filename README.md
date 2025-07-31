@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mahalakshmi-005/mahalakshmi-005/main/banner.png" alt="Maha Lakshmi K Banner" width="100%" />
+</p>
 <!-- Gradient animated title with typing effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=4000&pause=500&color=FF6B6B&background=00000000&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Maha+Lakshmi+K;Software+Developer+(ASP.NET+MVC,+C#);UI%2FUX+Designer+%7C+Web+Designer;Passionate+About+Full+Stack+Development!" alt="Typing SVG" />
